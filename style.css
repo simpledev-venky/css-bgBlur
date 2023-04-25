@@ -1,0 +1,24 @@
+div {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
+    url("https://w0.peakpx.com/wallpaper/551/479/HD-wallpaper-avengers-poster-avengers-poster-marvels-super-hero-superhero-the-avengers.jpg");
+  min-height: 100vh;
+  color: rgb(237, 237, 71);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  flex-wrap: wrap;
+}
+img {
+  width: 50%;
+  transform: rotate(20deg);
+  margin: 4em;
+}
+p {
+  font-size: 2rem;
+  padding: 1em;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
